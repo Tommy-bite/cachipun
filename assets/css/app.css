@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+    font-family: "Kode Mono", monospace;
+}
+
+.contenedor{
+    max-width: 120rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
